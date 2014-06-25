@@ -1,11 +1,11 @@
-d5e1a730a16e3e334cc691f0e42c5ffc *DESCRIPTION
+a84403dc1997e2c899eac8b410d4b08e *DESCRIPTION
 28eb281d2e95520b65a29ce33855ae4e *NAMESPACE
-344e1740c2d5dec399ca72af60ee16b2 *R/censo2010.R
+25959c6f24feceba6ece69bac9000ad6 *R/censo2010.R
 1ccb0fc7ce983569c657b9025728bfe2 *R/create.spss.column.R
 adba88951cb0c7239cce3862ba64ef89 *R/create.spss.miss.R
 7e7d0f3619c09afabfbd9c8d75a9dcf2 *R/create.spss.vals.R
 574d3c78ccb6f14bd0751fb81fc71733 *R/create.spss.var.R
-30c90d9f97267c3372c4bf7851297fa7 *R/defun2011.R
+81d47647bb585719bd7c97d695ca1855 *R/defun2011.R
 82046f9efb21378fab15bee847c9ff08 *R/ees2010.R
 971be9b9666b8c78854f0a1181e543e8 *R/epa2005.R
 3e801c79b7d3c37950f57855bdd3e123 *R/fix.char.items.R
@@ -31,4 +31,4 @@ e96d3425322142172aff7d699151b747 *man/censo2010.Rd
 13e43c62e7c18fb150a811475a08a345 *man/defun2011.Rd
 fc77bd446205e2b2b55b714252c3f243 *man/ees2010.Rd
 3d379f11f6b58ad6b42097c26af665ae *man/epa2005.Rd
-7c116cfc502a5d4d180b0c797409fe63 *man/test.metadata.Rd
+054345f1299e6cf4c399071a9b2de6b1 *man/test.metadata.Rd
