@@ -1,6 +1,6 @@
-6f7907022f06c415a4d8cbb4d47f82e3 *DESCRIPTION
+d5e1a730a16e3e334cc691f0e42c5ffc *DESCRIPTION
 28eb281d2e95520b65a29ce33855ae4e *NAMESPACE
-db654b892e90fc9a0d97fb5b0072ccc1 *R/censo2010.R
+344e1740c2d5dec399ca72af60ee16b2 *R/censo2010.R
 1ccb0fc7ce983569c657b9025728bfe2 *R/create.spss.column.R
 adba88951cb0c7239cce3862ba64ef89 *R/create.spss.miss.R
 7e7d0f3619c09afabfbd9c8d75a9dcf2 *R/create.spss.vals.R
@@ -11,12 +11,12 @@ adba88951cb0c7239cce3862ba64ef89 *R/create.spss.miss.R
 3e801c79b7d3c37950f57855bdd3e123 *R/fix.char.items.R
 4378eb8ba2b1d7269ddd174c206ea019 *R/read.fwf.microdata.R
 3817b7b33e5c290afbdfbe042548ecc2 *R/test.metadata.R
-3b2bf6acf16db97d6e2255becb40dc06 *inst/extdata/sampleCenso.txt
+cb2c04a353a25ca40d533e7c57489dca *inst/extdata/sampleCenso.txt
 7d083c7c65b1ddc8a1e5d660691b13eb *inst/extdata/sampleDEFUN2010.txt
 2f5482ca6c76a79e1a5d4266f516a93b *inst/extdata/sampleEES2010.txt
 cc99b558d801dae005081e2d79ad2937 *inst/extdata/sampleEPA0111.txt
-3b0cc8efcb2d85367f17f3ef6835ecc7 *inst/metadata/censo_2010_mdat1.txt
-ec0ad9f5329f5187889eea131560aa43 *inst/metadata/censo_2010_mdat2.txt
+6d6d57479bedf63d3186981c80ae4ba6 *inst/metadata/censo_2010_mdat1.txt
+914f96c4a07da4c8ccf1892cfa42b507 *inst/metadata/censo_2010_mdat2.txt
 34b5603ab570dcf5890cfcfedadbb645 *inst/metadata/censo_2010_mdat3.txt
 9140502f6a3dc1101ebb6cb247ba5628 *inst/metadata/defun_2011_mdat1.txt
 82f5e326d2d9e84eba2736c06d52155b *inst/metadata/defun_2011_mdat2.txt
