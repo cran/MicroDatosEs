@@ -1,4 +1,4 @@
-b65dbab179606c455559f4f5c59708ed *DESCRIPTION
+814c099a0487a3f5de62015250a03142 *DESCRIPTION
 28eb281d2e95520b65a29ce33855ae4e *NAMESPACE
 25959c6f24feceba6ece69bac9000ad6 *R/censo2010.R
 1ccb0fc7ce983569c657b9025728bfe2 *R/create.spss.column.R
@@ -6,8 +6,8 @@ adba88951cb0c7239cce3862ba64ef89 *R/create.spss.miss.R
 7e7d0f3619c09afabfbd9c8d75a9dcf2 *R/create.spss.vals.R
 574d3c78ccb6f14bd0751fb81fc71733 *R/create.spss.var.R
 1cf1b58468dc72531fe52f0ad36ae795 *R/defun2011.R
-18a76161ce10e52664d5304251eff51a *R/ees2010.R
-9c63ae61d8a0232dfec2b491df19dd35 *R/epa2005.R
+be5d77485256bdb9d8ebb74d01136589 *R/ees2010.R
+909219ba6f492aecee2943442c5f005d *R/epa2005.R
 3e801c79b7d3c37950f57855bdd3e123 *R/fix.char.items.R
 30c1ffbef0ab1eb46eeb87370e4649d2 *R/read.fwf.microdata.R
 486ece9ffd06b752f8d97a5fda48f2d4 *R/test.metadata.R
