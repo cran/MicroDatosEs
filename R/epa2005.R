@@ -6,7 +6,7 @@
 
 epa2005 <- function( epa.file ){
   
-  file.column  <- create.spss.column(system.file( "metadata", "epa_mdat1.txt", package = "MicroDatosEs"), 
+  file.column  <- create.spss.column(system.file( "metadata", "epa_mdat1.txt", package = "MicroDatosEs" ), 
                                      system.file( "metadata", "epa_mdat2.txt", package = "MicroDatosEs" ), fileEncoding = "UTF-8")
   file.var     <- create.spss.var(system.file( "metadata", "epa_mdat1.txt", package = "MicroDatosEs" ), fileEncoding = "UTF-8")
   file.vals    <- create.spss.vals(system.file( "metadata", "epa_mdat2.txt", package = "MicroDatosEs" ), fileEncoding = "UTF-8")
