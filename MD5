@@ -1,4 +1,4 @@
-3fac2be88e48519987f2347aac7a084b *DESCRIPTION
+a145d1c11433bdd652564aa6eab17427 *DESCRIPTION
 8ed3487c678ee3e9cb36ceaf55489586 *NAMESPACE
 d11d878a6c51cd39345dde598196bce0 *R/censo2010.R
 4719046536e78e16517c1da13fc15b4c *R/defun2011.R
@@ -7,7 +7,7 @@ a94202b6495e378eae56dfbcad6684f6 *R/epa2005.R
 5b743d051f759c2d7877a786357a81a9 *R/epf.2011.gastos.R
 22a3b5296f9a776a5e52aa1afdf03b93 *R/epf.2011.hogares.R
 f903f5bb0f645530381407b5164e528c *R/epf.2011.miembros.R
-e2c1adb47ef4093a486a364f64e60d31 *R/read.fwf.microdata.R
+a1b85c1ae7bd4e6feced0a4c5b815a48 *R/read.fwf.microdata.R
 8af6bfeb55d0c51514fd92a11d31ddd3 *R/test.metadata.R
 bc804e5699739b095f128ede94aef492 *README.md
 d9a44f4919fea19b6c1e164d82c90ee2 *inst/extdata/sampleCenso2010.txt
