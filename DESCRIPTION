@@ -1,8 +1,8 @@
 Package: MicroDatosEs
 Type: Package
 Title: Utilities for Official Spanish Microdata
-Version: 0.8.14
-Date: 2022-10-04
+Version: 0.8.15
+Date: 2023-11-24
 Encoding: UTF-8
 Authors@R: c( person("Carlos J.", "Gil Bellosta", email="cgb@datanalytics.com", role=c('aut', 'cre')),
 		person("Carlos", "Neira", email = "cneirac@gmail.com", role="ctb"),
@@ -19,7 +19,7 @@ License: GPL-3
 LazyLoad: yes
 RoxygenNote: 7.2.1
 NeedsCompilation: no
-Packaged: 2022-10-05 00:05:24 UTC; carlos
+Packaged: 2023-11-24 15:17:22 UTC; carlos
 Author: Carlos J. Gil Bellosta [aut, cre],
   Carlos Neira [ctb],
   Diego Paniagua Sánchez [ctb],
@@ -29,4 +29,4 @@ Author: Carlos J. Gil Bellosta [aut, cre],
   José Luis Cañadas Reche [ctb]
 Maintainer: Carlos J. Gil Bellosta <cgb@datanalytics.com>
 Repository: CRAN
-Date/Publication: 2022-10-05 06:20:07 UTC
+Date/Publication: 2023-11-24 16:10:02 UTC
